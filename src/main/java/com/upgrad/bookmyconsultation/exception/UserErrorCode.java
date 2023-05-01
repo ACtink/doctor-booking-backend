@@ -20,7 +20,7 @@ public enum UserErrorCode implements ErrorCode {
 
     USR_002("USR-002", "Username does not exist"),
 
-    USR_003("USR-003", "Password match failed"),
+    USR_003("USR-003", "The username or password you have entered is invalid"),
 
     USR_004("USR-004", "Concurrent login attempt by the user from other device(s)"),
 
